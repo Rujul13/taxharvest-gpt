@@ -1,0 +1,58 @@
+{
+  "AAPL": {
+    "name": "Apple Inc.",
+    "replacements": [
+      {"ticker": "SCHG", "name": "Schwab US Large-Cap Growth ETF"},
+      {"ticker": "VUG", "name": "Vanguard Growth ETF"},
+      {"ticker": "IWF", "name": "iShares Russell 1000 Growth ETF"}
+    ]
+  },
+  "MSFT": {
+    "name": "Microsoft Corporation",
+    "replacements": [
+      {"ticker": "VGT", "name": "Vanguard Information Technology ETF"},
+      {"ticker": "XLK", "name": "Technology Select Sector SPDR Fund"},
+      {"ticker": "FTEC", "name": "Fidelity MSCI Information Technology ETF"}
+    ]
+  },
+  "TSLA": {
+    "name": "Tesla Inc.",
+    "replacements": [
+      {"ticker": "ARKK", "name": "ARK Innovation ETF"},
+      {"ticker": "DRIV", "name": "Global X Autonomous & Electric Vehicles ETF"},
+      {"ticker": "IDRV", "name": "iShares Self-Driving EV and Tech ETF"}
+    ]
+  },
+  "NVDA": {
+    "name": "NVIDIA Corporation",
+    "replacements": [
+      {"ticker": "SMH", "name": "VanEck Semiconductor ETF"},
+      {"ticker": "SOXX", "name": "iShares Semiconductor ETF"},
+      {"ticker": "XSD", "name": "SPDR S&P Semiconductor ETF"}
+    ]
+  },
+  "AMZN": {
+    "name": "Amazon.com Inc.",
+    "replacements": [
+      {"ticker": "XLY", "name": "Consumer Discretionary Select Sector SPDR"},
+      {"ticker": "VCR", "name": "Vanguard Consumer Discretionary ETF"},
+      {"ticker": "FDIS", "name": "Fidelity MSCI Consumer Discretionary ETF"}
+    ]
+  },
+  "GOOGL": {
+    "name": "Alphabet Inc.",
+    "replacements": [
+      {"ticker": "XLC", "name": "Communication Services Select Sector SPDR"},
+      {"ticker": "VOX", "name": "Vanguard Communication Services ETF"},
+      {"ticker": "FCOM", "name": "Fidelity MSCI Communication Services ETF"}
+    ]
+  },
+  "META": {
+    "name": "Meta Platforms Inc.",
+    "replacements": [
+      {"ticker": "XLC", "name": "Communication Services Select Sector SPDR"},
+      {"ticker": "SOCL", "name": "Global X Social Media ETF"},
+      {"ticker": "VOX", "name": "Vanguard Communication Services ETF"}
+    ]
+  }
+}
